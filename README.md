@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **multithreading, realtime and multi-instance for C programming language**
 
-- 👨‍💻 I worked at **Matrius Technologies, Montreal on LoRaWAN solutions**
+- 👨‍💻 I worked at **Matrius Technologies, Montreal, on LoRaWAN solutions**
 
 - 📫 How to reach me **xavier.cordonnier@reseau.eseo.fr**
 
