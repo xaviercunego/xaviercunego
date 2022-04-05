@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier</h1>
 <h3 align="center">A french passionate embedded systems student at ESEO school</h3>
 
-- 🔭 I’m currently working on [a class project](PROSE)
+- 🔭 I’m currently working on **a class project PROSE**
 
 - 🌱 I’m currently learning **multithreading, realtime and multi-instance for C programming language**
 
